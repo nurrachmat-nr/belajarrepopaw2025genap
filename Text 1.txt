@@ -1,3 +1,6 @@
 Nur Rachmat
 Si4B
 PAW 1
+
+Hallo, silakan push file masing masing di repository ini.
+Buat File dengan format : npm.txt
